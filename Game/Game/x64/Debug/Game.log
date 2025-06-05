@@ -1,9 +1,2 @@
-﻿  ModeGame.cpp
-D:\個人製作\Game\Game\source\ModeGame.cpp(69,20): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-D:\個人製作\Game\Game\source\ModeGame.cpp(227,15): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
-D:\個人製作\Game\Game\source\ModeGame.cpp(231,15): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
-D:\個人製作\Game\Game\source\ModeGame.cpp(261,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
-D:\個人製作\Game\Game\source\ModeGame.cpp(262,12): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
-D:\個人製作\Game\Game\source\ModeGame.cpp(460,18): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
-D:\個人製作\Game\Game\source\ModeGame.cpp(461,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
-  Game.vcxproj -> D:\個人製作\Game\x64\Debug\Game.exe
+﻿  ModeTitle.cpp
+  Game.vcxproj -> D:\Sunfish\Game\x64\Debug\Game.exe

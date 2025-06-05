@@ -26,6 +26,8 @@ bool ModeGame::Process() {
 bool ModeGame::Render() {
 	base::Render();
 
+	DrawFormatString(100, 100, GetColor(255, 0, 0), "ÉQÅ[ÉÄ");
+
 	return true;
 }
 

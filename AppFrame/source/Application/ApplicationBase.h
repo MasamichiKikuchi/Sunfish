@@ -25,7 +25,10 @@ public:
 
 	static	ApplicationBase	*GetInstance() { return _lpInstance; }
 	virtual int GetKey() { return _gKey; }
-	virtual int GetTrg() { return _gTrg; }
+	virtual int GetTrg() { return gTrg; }
+
+	virtual XINPUT_STATE GetXinputPad() { return xinput_pad; }
+	virtual int* GetXTrg() { return gXTrg; }
 
 	static	ApplicationBase* _lpInstance;
 
