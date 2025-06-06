@@ -3,6 +3,7 @@
 #include "ApplicationMain.h"
 #include "ModeTitle.h"
 
+
 // ŽÀ‘Ì
 ApplicationMain				g_oApplicationMain;
 

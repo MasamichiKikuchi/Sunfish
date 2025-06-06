@@ -38,10 +38,10 @@ bool ModeTitle::Render() {
 	base::Render();
 	DrawFormatString(100, 100, GetColor(255, 0, 0), "ƒ^ƒCƒgƒ‹");
 	DrawString(0, 64, "Button", GetColor(255, 0, 0));
-	for (int i = 0; i < 16; i++)
+	/*for (int i = 0; i < 16; i++)
 	{
 		DrawFormatString(64 + i % 8 * 64, 64 + i / 8 * 16, GetColor(255, 0, 0),"%2d:%d", i, input.Buttons[i]);
-	}
+	}*/
 
 	return true;
 }

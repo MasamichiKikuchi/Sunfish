@@ -11,8 +11,6 @@ float RadToDeg(float rad) {
     return rad * 180.0f / PI;		// Šp“x‚ğradian‚©‚çdegree‚É•ÏŠ·
 }
 
-
-
 // “–‚½‚è”»’è—pB2‚Â‚Ìbox‚ª“–‚½‚Á‚½‚©‚ğ”»’è
 // “–‚½‚Á‚Ä‚¢‚½‚ç1, “–‚½‚Á‚Ä‚¢‚È‚©‚Á‚½‚ç0‚ğ•Ô‚·
 int IsHitBox(

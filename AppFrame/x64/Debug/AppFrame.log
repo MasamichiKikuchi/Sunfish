@@ -1,4 +1,33 @@
 ﻿  ApplicationBase.cpp
   WinMain.cpp
+  CFile.cpp
+  ModeBase.cpp
+  ModeServer.cpp
+  MyMath.cpp
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(69,19): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(71,48): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(74,57): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(86,19): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(88,54): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(91,56): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(103,19): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(105,60): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(108,63): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(120,19): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(122,66): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(125,68): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(128,65): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(131,56): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(134,64): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(137,62): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(140,64): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(143,19): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(145,63): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(148,61): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(152,55): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(157,48): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(160,19): warning C4244: '/=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(162,65): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Sunfish\AppFrame\source\MyMath\MyMath.cpp(165,60): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
   コードを生成中...
   AppFrame.vcxproj -> D:\Sunfish\Game\x64\Debug\AppFrame.lib

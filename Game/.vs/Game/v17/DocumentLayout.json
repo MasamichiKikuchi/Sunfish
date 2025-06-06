@@ -3,31 +3,48 @@
   "WorkspaceRootPath": "D:\\Sunfish\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Mode\\ModeBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\MyMath\\MyMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\appframe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ApplicationMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ApplicationMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Mode\\ModeServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\sunfish\\AppFrame\\source\\MyMath\\MyMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Mode\\ModeBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Mode\\ModeServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Application\\UtilMacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -36,19 +53,8 @@
       "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\Sunfish\\AppFrame\\source\\Mode\\ModeServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ApplicationMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ApplicationMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|D:\\Sunfish\\Game\\Game\\source\\ModeTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{225A56D2-C751-4DC5-845B-660EFBD31DBD}|Game\\Game.vcxproj|solutionrelative:Game\\source\\ModeTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2649D2CB-85D2-4B89-A222-109EDE46FF05}|..\\AppFrame\\AppFrame.vcxproj|D:\\sunfish\\AppFrame\\source\\MyMath\\MyMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\kikuchi\\kouki\\241023_1\u5E74PGCPP\u8A00\u8A9EI\\241023_1\u5E74PGCPP\u8A00\u8A9EI\\project\\AppFrame\\source\\Application\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -118,6 +124,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\cmath||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,50 +136,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ModeTitle.cpp",
               "DocumentMoniker": "D:\\Sunfish\\Game\\Game\\source\\ModeTitle.cpp",
               "RelativeDocumentMoniker": "Game\\source\\ModeTitle.cpp",
               "ToolTip": "D:\\Sunfish\\Game\\Game\\source\\ModeTitle.cpp",
               "RelativeToolTip": "Game\\source\\ModeTitle.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwCsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-05T16:55:20.258Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "appframe.h",
+              "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\appframe.h",
+              "RelativeDocumentMoniker": "..\\AppFrame\\source\\appframe.h",
+              "ToolTip": "D:\\Sunfish\\AppFrame\\source\\appframe.h",
+              "RelativeToolTip": "..\\AppFrame\\source\\appframe.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T03:35:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyMath.h",
+              "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\MyMath\\MyMath.h",
+              "RelativeDocumentMoniker": "..\\AppFrame\\source\\MyMath\\MyMath.h",
+              "ToolTip": "D:\\Sunfish\\AppFrame\\source\\MyMath\\MyMath.h",
+              "RelativeToolTip": "..\\AppFrame\\source\\MyMath\\MyMath.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T03:33:21.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "cmath",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\cmath",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\cmath",
+              "ViewState": "AgIAACsBAAAAAAAAAAAnwDoBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T03:25:13.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ApplicationBase.cpp",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.cpp",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Application\\ApplicationBase.cpp",
               "ToolTip": "D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.cpp",
               "RelativeToolTip": "..\\AppFrame\\source\\Application\\ApplicationBase.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEcAAAACAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T10:11:00.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:11:00.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "WinMain.cpp",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Application\\WinMain.cpp",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Application\\WinMain.cpp",
@@ -178,25 +207,23 @@
               "RelativeToolTip": "..\\AppFrame\\source\\Application\\WinMain.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvyAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T10:10:43.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:10:43.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationMain.cpp",
               "DocumentMoniker": "D:\\Sunfish\\Game\\Game\\source\\ApplicationMain.cpp",
               "RelativeDocumentMoniker": "Game\\source\\ApplicationMain.cpp",
               "ToolTip": "D:\\Sunfish\\Game\\Game\\source\\ApplicationMain.cpp",
               "RelativeToolTip": "Game\\source\\ApplicationMain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-25T09:24:36.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T09:24:36.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ModeBase.cpp",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Mode\\ModeBase.cpp",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Mode\\ModeBase.cpp",
@@ -204,12 +231,11 @@
               "RelativeToolTip": "..\\AppFrame\\source\\Mode\\ModeBase.cpp",
               "ViewState": "AQIAAAQAAAAAAAAAAADgvzQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T10:10:31.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:10:31.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ModeServer.cpp",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Mode\\ModeServer.cpp",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Mode\\ModeServer.cpp",
@@ -217,42 +243,36 @@
               "RelativeToolTip": "..\\AppFrame\\source\\Mode\\ModeServer.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T10:10:28.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:10:28.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ModeGame.cpp",
               "DocumentMoniker": "D:\\Sunfish\\Game\\Game\\source\\ModeGame.cpp",
               "RelativeDocumentMoniker": "Game\\source\\ModeGame.cpp",
               "ToolTip": "D:\\Sunfish\\Game\\Game\\source\\ModeGame.cpp",
               "RelativeToolTip": "Game\\source\\ModeGame.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-04T10:23:35.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "ApplicationBase.h",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.h",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Application\\ApplicationBase.h",
               "ToolTip": "D:\\Sunfish\\AppFrame\\source\\Application\\ApplicationBase.h",
               "RelativeToolTip": "..\\AppFrame\\source\\Application\\ApplicationBase.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-05T10:11:10.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-06-05T10:11:10.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UtilMacro.h",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Application\\UtilMacro.h",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Application\\UtilMacro.h",
@@ -260,12 +280,11 @@
               "RelativeToolTip": "..\\AppFrame\\source\\Application\\UtilMacro.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-05T10:11:32.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:11:32.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ModeServer.h",
               "DocumentMoniker": "D:\\Sunfish\\AppFrame\\source\\Mode\\ModeServer.h",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\Mode\\ModeServer.h",
@@ -273,25 +292,23 @@
               "RelativeToolTip": "..\\AppFrame\\source\\Mode\\ModeServer.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-05T10:10:40.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:10:40.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "ModeGame.h",
               "DocumentMoniker": "D:\\Sunfish\\Game\\Game\\source\\ModeGame.h",
               "RelativeDocumentMoniker": "Game\\source\\ModeGame.h",
               "ToolTip": "D:\\Sunfish\\Game\\Game\\source\\ModeGame.h",
               "RelativeToolTip": "Game\\source\\ModeGame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-01T05:21:53.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T05:21:53.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ApplicationMain.h",
               "DocumentMoniker": "D:\\Sunfish\\Game\\Game\\source\\ApplicationMain.h",
               "RelativeDocumentMoniker": "Game\\source\\ApplicationMain.h",
@@ -299,12 +316,11 @@
               "RelativeToolTip": "Game\\source\\ApplicationMain.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-04T07:33:19.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T07:33:19.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ApplicationBase.cpp",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.cpp",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.cpp",
@@ -314,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ApplicationBase.h",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.h",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.h",
@@ -324,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "MyMath.cpp",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.cpp",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.cpp",
@@ -336,20 +352,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "ModeTitle.h",
               "DocumentMoniker": "D:\\Sunfish\\Game\\Game\\source\\ModeTitle.h",
               "RelativeDocumentMoniker": "Game\\source\\ModeTitle.h",
               "ToolTip": "D:\\Sunfish\\Game\\Game\\source\\ModeTitle.h",
               "RelativeToolTip": "Game\\source\\ModeTitle.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T16:55:06.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T16:55:06.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "UtilMacro.h",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\UtilMacro.h",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\UtilMacro.h",
@@ -361,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "MyMath.h",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.h",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.h",
@@ -373,19 +388,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "MyMath.cpp",
               "DocumentMoniker": "D:\\sunfish\\AppFrame\\source\\MyMath\\MyMath.cpp",
               "RelativeDocumentMoniker": "..\\AppFrame\\source\\MyMath\\MyMath.cpp",
               "ToolTip": "D:\\sunfish\\AppFrame\\source\\MyMath\\MyMath.cpp",
               "RelativeToolTip": "..\\AppFrame\\source\\MyMath\\MyMath.cpp",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-04T00:55:44.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "appframe.h",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\appframe.h",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\appframe.h",
@@ -395,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "MyMath.cpp",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.cpp",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.cpp",
@@ -405,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "UtilMacro.h",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\UtilMacro.h",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\UtilMacro.h",
@@ -415,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "MyMath.h",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.h",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\MyMath\\MyMath.h",
@@ -425,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ModeServer.h",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeServer.h",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeServer.h",
@@ -435,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "WinMain.cpp",
               "DocumentMoniker": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\WinMain.cpp",
               "ToolTip": "F:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\WinMain.cpp",
@@ -445,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ModeBase.h",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeBase.h",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeBase.h",
@@ -457,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ModeServer.cpp",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeServer.cpp",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeServer.cpp",
@@ -469,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "appframe.h",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\appframe.h",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\appframe.h",
@@ -481,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "ModeServer.h",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeServer.h",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeServer.h",
@@ -493,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "CFile.cpp",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\CFile\\CFile.cpp",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\CFile\\CFile.cpp",
@@ -505,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ModeBase.cpp",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeBase.cpp",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Mode\\ModeBase.cpp",
@@ -517,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ApplicationBase.h",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.h",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.h",
@@ -529,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ApplicationBase.cpp",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.cpp",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\ApplicationBase.cpp",
@@ -541,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "WinMain.cpp",
               "DocumentMoniker": "D:\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\WinMain.cpp",
               "RelativeDocumentMoniker": "..\\..\\\u500B\u4EBA\u88FD\u4F5C\\AppFrame\\source\\Application\\WinMain.cpp",
@@ -553,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "gamepad.h",
               "DocumentMoniker": "C:\\Users\\amg\\Downloads\\gamepad.h",
               "ToolTip": "C:\\Users\\amg\\Downloads\\gamepad.h",
@@ -562,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "gamepad.cpp",
               "DocumentMoniker": "C:\\Users\\amg\\Downloads\\gamepad.cpp",
               "ToolTip": "C:\\Users\\amg\\Downloads\\gamepad.cpp",
@@ -571,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "WinMain.cpp",
               "DocumentMoniker": "D:\\kikuchi\\kouki\\241023_1\u5E74PGCPP\u8A00\u8A9EI\\241023_1\u5E74PGCPP\u8A00\u8A9EI\\project\\AppFrame\\source\\Application\\WinMain.cpp",
               "RelativeDocumentMoniker": "..\\..\\kikuchi\\kouki\\241023_1\u5E74PGCPP\u8A00\u8A9EI\\241023_1\u5E74PGCPP\u8A00\u8A9EI\\project\\AppFrame\\source\\Application\\WinMain.cpp",
