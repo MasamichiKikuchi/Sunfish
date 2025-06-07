@@ -3,12 +3,71 @@
 #include "ApplicationMain.h"
 #include "ModeGame.h"
 
+// 前方ベクトル（Z+）をクォータニオンで回転して取得
+VECTOR ModeGame::GetForwardVector(const Quaternion& q)
+{
+	MATRIX mat = QuaternionToMatrix(q);
+	return VGet(mat.m[2][0], mat.m[2][1], mat.m[2][2]);
+}
+
+// 初期化
+void ModeGame::InitPlayer(Player& player)
+{
+	player.position = VGet(0.0f, 0.0f, 0.0f);
+	player.rotation = QuaternionIdentity();
+	player.moveSpeed = 0.5f;
+	player.rotSpeed = 0.05f;
+	player.modelHandle = MV1LoadModel("resource/Player/manbo.mv1");
+}
+
+// 更新処理
+void ModeGame::UpdatePlayer(Player& player)
+{
+	// 入力による回転
+	if (CheckHitKey(KEY_INPUT_LEFT)) {
+		player.rotation = QuaternionMultiply(
+			QuaternionFromAxisAngle(VGet(0, 1, 0), -player.rotSpeed), player.rotation);
+	}
+	if (CheckHitKey(KEY_INPUT_RIGHT)) {
+		player.rotation = QuaternionMultiply(
+			QuaternionFromAxisAngle(VGet(0, 1, 0), player.rotSpeed), player.rotation);
+	}
+	if (CheckHitKey(KEY_INPUT_UP)) {
+		player.rotation = QuaternionMultiply(
+			QuaternionFromAxisAngle(VGet(1, 0, 0), -player.rotSpeed), player.rotation);
+	}
+	if (CheckHitKey(KEY_INPUT_DOWN)) {
+		player.rotation = QuaternionMultiply(
+			QuaternionFromAxisAngle(VGet(1, 0, 0), player.rotSpeed), player.rotation);
+	}
+	if (CheckHitKey(KEY_INPUT_Z)) {
+		player.rotation = QuaternionMultiply(
+			QuaternionFromAxisAngle(VGet(0, 0, 1), -player.rotSpeed), player.rotation);
+	}
+	if (CheckHitKey(KEY_INPUT_X)) {
+		player.rotation = QuaternionMultiply(
+			QuaternionFromAxisAngle(VGet(0, 0, 1), player.rotSpeed), player.rotation);
+	}
+
+	// 移動処理（前進）
+	if (CheckHitKey(KEY_INPUT_SPACE)) {
+		VECTOR forward = GetForwardVector(player.rotation);
+		player.position = VAdd(player.position, VScale(forward, player.moveSpeed));
+	}
+
+	// 行列に変換して位置情報反映
+	MATRIX rotMat = QuaternionToMatrix(player.rotation);
+	rotMat.m[3][0] = player.position.x;
+	rotMat.m[3][1] = player.position.y;
+	rotMat.m[3][2] = player.position.z;
+
+	MV1SetMatrix(player.modelHandle, rotMat);
+}
+
 bool ModeGame::Initialize() {
 	if (!base::Initialize()) { return false; }
 
-	handle = MV1LoadModel("resource/Player/manbo.mv1");
-
-	position = VGet(0.0f, 0.0f, 0.0f);
+	InitPlayer(player);
 
 	// カメラの設定（わかりやすい位置に）
 	_cam._vPos = VGet(0, 200.0f, -500.f);
@@ -33,7 +92,7 @@ bool ModeGame::Process() {
 	int key = ApplicationMain::GetInstance()->GetKey();
 	int trg = ApplicationMain::GetInstance()->GetTrg();
 
-	position.z += 1;
+	UpdatePlayer(player);
 
 	_cam._vPos = VGet(position.x, position.y, position.z - 1000); ;
 	_cam._vTarget = VGet(position.x, position.y, position.z);
@@ -50,7 +109,7 @@ bool ModeGame::Render() {
 
 	// ライト設定
 	SetUseLighting(false);
-	
+
 	// 平行ライト
 	SetGlobalAmbientLight(GetColorF(0.f, 0.f, 0.f, 0.f));
 	ChangeLightTypeDir(VGet(-1, -1, 0));
@@ -61,10 +120,13 @@ bool ModeGame::Render() {
 
 	// 位置
 	//向きからY軸回転を算出
-	VECTOR vRot = { 0, DEG2RAD(90),0};
-	MV1SetRotationXYZ(handle, vRot);
-	MV1SetPosition(handle, VGet(position.x, position.y - 50, position.z));
-	MV1DrawModel(handle);
+	/*VECTOR vRot = { 0, DEG2RAD(90),0};
+	MV1SetRotationXYZ(handle, vRot);*/
+
+
+	//MV1SetPosition(player.modelHandle, VGet(player.position.x, player.position.y, player.position.z));
+	MV1DrawModel(player.modelHandle);
+
 
 	// 0,0,0を中心に線を引く
 	{
